@@ -3,11 +3,11 @@ import pandas as pd
 from joblib import load
 
 # Load the trained model
-model = load('Selmon.joblib')
+model = load('Samar.joblib')
 
 # Define the input fields for user input
-st.title('Selmon Real Estate - House Price Predictor')
-st.write('Welcome to Selmon Real Estate - House Price Predictor Model, which leverages Machine Learning algorithm "Random Forest Regressor" for predicting Boston House Prices, a city in Massachusetts, USA')
+st.title('Samar Real Estate - House Price Predictor')
+st.write('Welcome to Samar Real Estate - House Price Predictor Model, which leverages Machine Learning algorithm "Random Forest Regressor" for predicting Boston House Prices, a city in Massachusetts, USA')
 st.write('''Attribute Information:
 
     1. CRIM      per capita crime rate by town
@@ -62,4 +62,4 @@ st.subheader('Predicted House Price')
 st.write(f'The predicted house price is ${prediction[0] * 1000:.2f}')
 
 # st.write('Selmon Real Estate &copy2024 - A part of Selmon Industries',align='center')
-st.write("<div style='text-align: center;'>Selmon Real Estate &copy2024 - A part of Selmon Industries</div>", unsafe_allow_html=True)
+st.write("<div style='text-align: center;'>Samar Real Estate &copy2024 - A part of Samar Industries</div>", unsafe_allow_html=True)
