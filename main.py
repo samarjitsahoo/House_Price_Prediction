@@ -61,5 +61,4 @@ prediction = model.predict(input_df)
 st.subheader('Predicted House Price')
 st.write(f'The predicted house price is ${prediction[0] * 1000:.2f}')
 
-# st.write('Selmon Real Estate &copy2024 - A part of Selmon Industries',align='center')
-st.write("<div style='text-align: center;'>Samar Real Estate &copy2024 - A part of Samar Industries</div>", unsafe_allow_html=True)
+st.write("<div style='text-align: center;'>Samar Real Estate &copy2024</div>", unsafe_allow_html=True)
