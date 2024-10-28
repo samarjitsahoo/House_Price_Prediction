@@ -1,2 +1,7 @@
-# house-price-predictor
-Explore my Machine Learning repository featuring a House Price Predictor project. Leveraging advanced algorithms, this project predicts house prices based on various features like location, size, amenities, and market trends. Dive into the world of predictive analytics and gain insights into the dynamic real estate market.
+# House Price Prediction
+<p align="justify">Welcome to the House Price Prediction project! This repository showcases a comprehensive machine learning model designed to predict housing prices based on various features and parameters. Utilizing powerful libraries such as NumPy, Pandas, Matplotlib, SciPy, and Scikit-learn, this project demonstrates essential data preprocessing, exploratory data analysis, and model training techniques. It provides a hands-on approach to understanding how different factors influence housing prices and how to apply statistical methods to generate accurate predictions. Whether you’re a beginner eager to learn about data science or an experienced developer looking to enhance your skills, this project offers valuable insights into the world of predictive modeling and data analysis.</p>
+<h2 align="left">Tech Stack</h2>
+
+| Python  | Numpy  | Pandas  | Matplotlib | Scikit-learn |
+|---------|--------|---------|------------|--------------|
+| <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="65"/> | <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy" width="65"/> | <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="65"/> | <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="65"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65"/> |
