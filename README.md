@@ -1,4 +1,7 @@
 # House Price Prediction
+<div align="center">
+  <img src="https://cdn.pixabay.com/photo/2016/06/01/17/43/house-1429409_1280.png" width="250" height="auto">
+</div>
 <p align="justify">Welcome to the House Price Prediction project! This repository showcases a comprehensive machine learning model designed to predict housing prices based on various features and parameters. Utilizing powerful libraries such as NumPy, Pandas, Matplotlib, SciPy, and Scikit-learn, this project demonstrates essential data preprocessing, exploratory data analysis, and model training techniques. It provides a hands-on approach to understanding how different factors influence housing prices and how to apply statistical methods to generate accurate predictions. Whether you’re a beginner eager to learn about data science or an experienced developer looking to enhance your skills, this project offers valuable insights into the world of predictive modeling and data analysis.</p>
 <h2 align="left">Tech Stack</h2>
 
